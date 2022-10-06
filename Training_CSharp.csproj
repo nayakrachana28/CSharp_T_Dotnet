@@ -5,7 +5,7 @@
     <TargetFramework>net6.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
-    <StartupObject>Training_CSharp.Task17_files1</StartupObject>
+    <StartupObject>Training_CSharp.Task18_Generics</StartupObject>
   </PropertyGroup>
 
 </Project>
